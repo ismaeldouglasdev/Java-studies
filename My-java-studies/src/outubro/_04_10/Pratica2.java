@@ -1,4 +1,4 @@
-package outubro;
+package outubro._04_10;
 
 public class Pratica2 {
     /*Declare variáveis de tipos diferentes

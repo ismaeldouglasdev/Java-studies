@@ -1,9 +1,9 @@
-package outubro;
+package outubro._05_10;
 
 import java.util.Scanner;
 
 public class Pratica7 {
-    public static void main (String[] args) {
+    public static void main(String[] args){
         //Crie um array com os 10 primeiros
         //números naturais e exiba-os.
         Scanner entrada = new Scanner(System.in);
@@ -12,11 +12,13 @@ public class Pratica7 {
         int i = 0;
 
         while (i < num.length) {
-            if(i == num.length - 1){
-                System.out.print("");
+            if (i == num.length - 1) {
+                System.out.print(num[i] + ".");
+                i++;
+            } else {
+                System.out.print(num[i] + ", ");
+                i++;
             }
-            System.out.print(num[i] + ", ");
-            i++;
         }
     }
 }

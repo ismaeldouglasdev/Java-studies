@@ -1,4 +1,4 @@
-package outubro;
+package outubro._03_10;
 
 import java.util.Scanner;
 
