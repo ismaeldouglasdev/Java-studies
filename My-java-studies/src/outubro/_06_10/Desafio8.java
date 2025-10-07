@@ -2,7 +2,7 @@ package outubro._06_10;
 
 import java.util.Scanner;
 
-public class Pratica8 {
+public class Desafio8 {
     public static void main(String[] args){
         /*Desafio 8: Calcule a média dos
         valores de um array.

@@ -1,6 +1,6 @@
 package outubro._04_10;
 
-public class Pratica2 {
+public class Desafio2 {
     /*Declare variáveis de tipos diferentes
     (int, float, boolean, String) e imprima
     seus valores */

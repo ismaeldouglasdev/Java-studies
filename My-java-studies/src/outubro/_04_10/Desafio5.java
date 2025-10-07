@@ -2,7 +2,7 @@ package outubro._04_10;
 
 import java.util.Scanner;
 
-public class Pratica5 {
+public class Desafio5 {
     /*Leia 5 números do usuário,
     guarde em um array e calcule a soma.*/
     // 04/10/25 8:05 am

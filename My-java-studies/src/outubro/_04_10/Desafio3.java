@@ -2,7 +2,7 @@ package outubro._04_10;
 
 import java.util.Scanner;
 
-public class Pratica3 {
+public class Desafio3 {
     /*Crie um programa que leia a idade
     do usuário e diga se é maior de idade.*/
     // 04/10/25 7:40 am

@@ -2,7 +2,7 @@ package outubro._06_10;
 
 import java.util.Scanner;
 
-public class Pratica9 {
+public class Desafio9 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         /*Escreva a tabuada de multiplicar

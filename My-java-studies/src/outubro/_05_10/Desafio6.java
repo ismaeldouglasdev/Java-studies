@@ -2,7 +2,7 @@ package outubro._05_10;
 
 import java.util.Scanner;
 
-public class Pratica6 {
+public class Desafio6 {
     //Implemente uma função que receba um
     //número inteiro e retorne se ele é par ou ímpar.
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package outubro._04_10;
 
 import java.util.Scanner;
 
-public class Pratica4 {
+public class Desafio4 {
     /*Faça um programa com um switch
     que imprima o nome do dia da semana
     dado um número (1 a 7).*/

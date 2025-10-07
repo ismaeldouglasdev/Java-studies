@@ -2,7 +2,7 @@ package outubro._05_10;
 
 import java.util.Scanner;
 
-public class Pratica7 {
+public class Desafio7 {
     public static void main(String[] args){
         //Crie um array com os 10 primeiros
         //números naturais e exiba-os.
